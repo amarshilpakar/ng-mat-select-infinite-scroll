@@ -60,10 +60,9 @@ Then place the msInfiniteScroll directive on the `mat-select` component
 
 ### Compatibility
 
-* `@angular/core`: `>=6.0.0 <16`,
-* `@angular/cdk`: `>=6.0.0 <16`,
-* `@angular/material`: `>=6.0.0 <16`,
-* `rxjs`: `^7.0.0`
+* `@angular/core`: `>=6.0.0 <=15`,
+* `@angular/cdk`: `>=6.0.0  <=15`,
+* `@angular/material`: `>=6.0.0  <=15`
 
 ### Contributions
 Contributions are welcomed, feel free to open a Pull-Request or open a new issue.
@@ -74,7 +73,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ### Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-c "production"` flag for a production build.
 
 ### Running unit tests
 

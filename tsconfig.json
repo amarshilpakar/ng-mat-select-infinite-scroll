@@ -14,10 +14,10 @@
     "declaration": false,
     "downlevelIteration": true,
     "paths": {
-      "ng-mat-select-infinite-scroll": [
+      "@amarshilpakar/ng-mat-select-infinite-scroll": [
         "dist/ng-mat-select-infinite-scroll"
       ],
-      "ng-mat-select-infinite-scroll/*": [
+      "@amarshilpakar/ng-mat-select-infinite-scroll/*": [
         "dist/ng-mat-select-infinite-scroll/*"
       ]
     },
